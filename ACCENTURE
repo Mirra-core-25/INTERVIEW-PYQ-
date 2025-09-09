@@ -1,0 +1,7 @@
+1.Reverse Words in a String-
+    Problem: Given an input string, reverse the string word by word.
+    Example: Input: "the sky is blue". Output: "blue is sky the".
+
+2.Shortest Palindrome-
+    Problem: Given a string s, you need to find the shortest palindrome by adding characters in front of it.
+    Example: Input: "aacecaaa". Output: "aaacecaaa".
