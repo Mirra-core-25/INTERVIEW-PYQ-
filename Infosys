@@ -1,1 +1,26 @@
-1.Merge Intervals-https://leetcode.com/problems/merge-intervals/
+1. Merge Intervals-
+    Problem: Given a collection of intervals, merge any overlapping intervals.
+    Example: Input: [[1,3],[2,6],[8,10],[15,18]]. Output: [[1,6],[8,10],[15,18]].
+
+2. LRU Cache-
+    Problem: Design and implement a data structure for Least Recently Used (LRU) cache.
+
+3. Longest Common Subsequence-
+    Problem: Given two strings, find the length of their longest common subsequence.
+    Example: Input: "abcde", "ace". Output: 3.
+
+4. Rotten Oranges-
+    Problem: Given a grid representing a map of oranges, where each cell can be empty, fresh, or rotten, determine the minimum time required to rot all the fresh oranges.
+
+5. Detect Cycle in Directed Graph-
+    Problem: Given a directed graph, detect if there is a cycle.
+
+6. Subsets-
+    Problem: Given a set of distinct integers, return all possible subsets.
+    Example: Input: [1,2,3]. Output: [[],[1],[2],[3],[1,2],[1,3],[2,3],[1,2,3]].
+
+7. Two Pointers-
+    Problem: Use two pointers to solve problems like removing duplicates from a sorted array, or finding pairs that sum up to a target value.
+
+8. Searching and Sorting Algorithms-
+    Problem: Implement algorithms like binary search, quicksort, and mergesort.
