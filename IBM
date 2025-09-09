@@ -1,1 +1,39 @@
-1.Count Unique Duplicates-https://www.reddit.com/r/leetcode/comments/1hwamdy/ibm_coding_assessment/?utm_source=chatgpt.com
+1. Two Sum-
+  Problem: Given an array of integers and a target value, find two numbers such that they add up to the target.
+  Example: Input: nums = [2, 7, 11, 15], target = 9. Output: [0, 1]
+
+2. Maximum Units on a Truck-
+  Problem: You have a truck with a capacity and boxes of different sizes and units per box. Maximize the number of units the truck can carry.
+  Example: Input: boxTypes = [[1,3],[2,2],[3,1]], truckSize = 4. Output: 8.
+
+3. Minimum Absolute Difference in BST-
+  Problem: In a Binary Search Tree, find the minimum absolute difference between values of any two nodes.
+  Example: Input: root = [4,2,6,1,3]. Output: 1.
+
+4. Integer to Roman-
+  Problem: Convert an integer to a Roman numeral.
+  Example: Input: num = 58. Output: "LVIII".
+
+5. Remove All Occurrences of a Substring-
+  Problem: Remove all occurrences of a substring from a string.
+  Example: Input: s = "abcdabc", part = "abc". Output: "d".
+
+6. Merge Intervals-
+  Problem: Given a collection of intervals, merge any overlapping intervals.
+  Example: Input: intervals = [[1,3],[2,6],[8,10],[15,18]]. Output: [[1,6],[8,10],[15,18]].
+
+7. Valid Parentheses-
+  Problem: Determine if the input string's parentheses are valid.
+  Example: Input: s = "()[]{}". Output: true.
+
+8. Longest Substring Without Repeating Characters-
+  Problem: Find the length of the longest substring without repeating characters.
+  Example: Input: s = "abcabcbb". Output: 3.
+
+9. Binary Tree Level Order Traversal-
+  Problem: Return the level order traversal of a binary tree's nodes' values.
+  Example: Input: root = [3,9,20,null,null,15,7]. Output: [[3],[9,20],[15,7]].
+
+10. Clone Graph-
+  Problem: Clone an undirected graph.
+  Example: Input: graph = [[2,4],[1,3],[2,4],[1,3]]. Output: [[2,4],[1,3],[2,4],[1,3]].
