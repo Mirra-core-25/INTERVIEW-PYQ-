@@ -1,0 +1,14 @@
+1.Merge Two Sorted Lists-
+    Description: Given two sorted linked lists, merge them into a single sorted list.
+
+2.Number of Islands-
+    Description: Given a 2D grid of '1's (land) and '0's (water), count the number of islands. An island is surrounded by water and is formed by connecting adjacent lands horizontally or vertically.
+
+3.Coin Change-
+    Description: Given an integer array representing coins of different denominations and an integer amount, compute the fewest number of coins that you need to make up that amount. If that amount of money cannot be made up by any combination of the coins, return -1.
+
+4.Find the Celebrity-
+    Description: Suppose you are at a party with N people. Some people may know others. Each person knows at most one other person. You are tasked with finding the celebrity, who is the person that everyone knows but who knows no one.
+
+5.Top K Frequent Elements-
+    Description: Given a non-empty array of integers, return the k most frequent elements.
