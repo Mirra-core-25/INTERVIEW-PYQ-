@@ -1,0 +1,36 @@
+1. Array Manipulation-
+    Problem: Find the product of the sum of even elements and the sum of odd elements in an array.
+    Example: For the array [1, 2, 3, 4, 5], the sum of even elements is 6 (2 + 4), and the sum of odd elements is 9 (1 + 3 + 5). The product is 6 * 9 = 54.
+
+2. String Reversal-
+    Problem: Reverse a given string.
+    Example: Input: "Deloitte", Output: "ettioloD".
+
+3. Palindrome Check-
+    Problem: Determine if a given string is a palindrome.
+    Example: Input: "radar", Output: True; Input: "hello", Output: False.
+
+4. Maximum Element in List-
+    Problem: Find the maximum element in a list.
+    Example: Input: [3, 5, 7, 2, 8], Output: 8.
+
+5. Fibonacci Sequence-
+    Problem: Generate the first n Fibonacci numbers.
+    Example: Input: n = 10, Output: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34].
+
+6. Prime Number Checker-
+    Problem: Check if a number is prime.
+    Example: Input: 11, Output: True; Input: 10, Output: False.
+
+7. Merge Two Sorted Lists-
+    Problem: Merge two sorted lists into one sorted list.
+    Example: Input: [1, 3, 5] and [2, 4, 6], Output: [1, 2, 3, 4, 5, 6].
+
+8. Find Duplicate Elements in List-
+    Problem: Identify duplicate elements in a list.
+    Example: Input: [1, 2, 3, 4, 4, 5, 6, 7, 8, 8], Output: [4, 8].
+
+9. Binary Search-
+    Problem: Implement binary search on a sorted list.
+    Example: Input: [1, 2, 3, 4, 5, 6, 7], Target: 5, Output: 4.
+
